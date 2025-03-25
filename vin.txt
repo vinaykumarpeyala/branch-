@@ -1,4 +1,4 @@
-rollno: 23bcac70
-name : vinay kumar p 
-department:computer science
+Rollno: 23bcac70
+Name : vinay kumar p 
+Department:computer science
 
